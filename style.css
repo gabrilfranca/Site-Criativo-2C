@@ -65,7 +65,7 @@ cabecalho{
 }
 
 
-.rodape{}
+.rodape{
     background-color: black
     text-align:center;
 
@@ -74,5 +74,5 @@ cabecalho{
         height:  60px;
         padding: 12px 0;
     }      
-    }
+    
 
